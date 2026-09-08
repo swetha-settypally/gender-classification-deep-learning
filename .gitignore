@@ -1,0 +1,5 @@
+dataset/male/*
+dataset/female/*
+__pycache__/
+*.pyc
+gender_classification_model.keras
