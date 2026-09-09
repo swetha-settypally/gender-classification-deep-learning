@@ -26,6 +26,15 @@ A CNN model is used with:
 - Sigmoid output layer
 
 ## Results
+## Training Graphs
+
+### Model Accuracy
+
+![Accuracy Graph](accuracy_graph.png)
+
+### Model Loss
+
+![Loss Graph](loss_graph.png)
 
 The model achieved approximately **90.81% validation accuracy** after 10 epochs.
 
